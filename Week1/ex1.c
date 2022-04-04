@@ -16,7 +16,7 @@ int main()
 {
 
     JRB txt, txt1, p, Txt = make_jrb(), stopW = make_jrb(), countTxt = make_jrb();
-    char A[20], B[20], C[20];
+    char A[200], B[200], C[200];
     char c, c1;
     int count, count1, a, b, d;
     int len, row = 0;
